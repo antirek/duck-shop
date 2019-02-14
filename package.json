@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "moment": "^2.22.2",
+    "typogr": "0.5.x",
+    "underscore": "1.4.x"
+  },
+  "private": "true",
+  "scripts": {
+    "build": "wintersmith build"
+  }
+}

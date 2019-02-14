@@ -1,0 +1,22 @@
+{
+  "locals": {
+    "url": "http://antirek.github.io/duck-shop",
+    "name": "Mobilon Docs",
+    "owner": "Someone",
+    "description": "Документация для пользователей, а также их родителей"
+  },
+  "require": {
+    "moment": "moment",
+    "_": "underscore",
+    "typogr": "typogr"
+  },
+  "jade": {
+    "pretty": true
+  },
+  "markdown": {
+    "smartLists": true,
+    "smartypants": true
+  },
+  "baseUrl": "/duck-shop",
+  "output": "./docs"
+}
